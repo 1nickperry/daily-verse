@@ -1,0 +1,19 @@
+{
+  "name": "dailyverse",
+  "version": "1.0.0",
+  "description": "pull a daily bible verse from daily verse website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1nickperry/daily-verse.git"
+  },
+  "author": "Nick Perry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1nickperry/daily-verse/issues"
+  },
+  "homepage": "https://github.com/1nickperry/daily-verse#readme"
+}
